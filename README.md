@@ -33,8 +33,7 @@ This repository provides a self-contained toy case for the **Valparaíso region*
 │   ├── 07_residual_acf_pacf.png
 │   ├── 08_daily_demand.png
 │   ├── 09_thermal_dispatch.png
-│   ├── 10_bess_soc.png
-│   └── 11_daily_cost.png
+│   └── 10_daily_cost.png
 ├── requirements.txt
 ├── LICENSE
 ├── CITATION.cff
