@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+type: software
+title: "Reproducible Code — Energy Generation Forecasting & Dispatch Optimization"
+abstract: >
+  Two-stage pipeline for the Valparaíso region of Chile: LSTM daily
+  electricity generation forecasting followed by multi-objective linear
+  programming dispatch optimization for cost and emissions minimization.
+license: MIT
+repository-code: https://github.com/[your-username]/[your-repo]
+date-released: "2026-01-01"
+
+authors:
+  - name: "[Author(s) — fill in before publishing]"
+
+preferred-citation:
+  type: article
+  title: >
+    Forecast-informed daily energy dispatch for cost and emission
+    reduction: Evidence from an emerging economy power system
+  journal: "Energy Conversion and Management"
+  year: 2026
+  doi: 10.1016/j.enconman.2026.121611
+  authors:
+    - name: "[Author(s) — fill in before publishing]"
