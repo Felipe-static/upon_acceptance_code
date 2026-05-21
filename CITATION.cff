@@ -3,15 +3,42 @@ message: "If you use this software, please cite the associated paper."
 type: software
 title: "Reproducible Code — Energy Generation Forecasting & Dispatch Optimization"
 abstract: >
-  Two-stage pipeline for the Valparaíso region of Chile: LSTM daily
-  electricity generation forecasting followed by multi-objective linear
-  programming dispatch optimization for cost and emissions minimization.
+  Two-stage pipeline for the Valparaíso region of Chile demonstrating
+  LSTM-based daily electricity generation forecasting coupled with
+  multi-objective linear programming dispatch optimization for simultaneous
+  cost and CO₂ emissions minimization.
 license: MIT
-repository-code: https://github.com/[your-username]/[your-repo]
-date-released: "2026-01-01"
+repository-code: "https://github.com/felipecarrascog/energy-dispatch-chile"
+date-released: "2026-01-13"
 
 authors:
-  - name: "[Author(s) — fill in before publishing]"
+  - family-names: Carrasco
+    given-names: Felipe
+    affiliation: >
+      Departamento de Industrias, Universidad Técnica Federico Santa María,
+      Valparaíso, Chile
+  - family-names: Kristjanpoller
+    given-names: Fredy
+    affiliation: >
+      Departamento de Industrias, Universidad Técnica Federico Santa María,
+      Valparaíso, Chile
+    email: fredy.kristjanpoller@usm.cl
+    orcid: "https://orcid.org/0000-0002-0000-0000"
+  - family-names: Verdugo
+    given-names: Ignacio
+    affiliation: >
+      Department of Engineering Sciences, Universidad Andres Bello,
+      Providencia, Chile
+  - family-names: Viveros
+    given-names: Pablo
+    affiliation: >
+      Departamento de Industrias, Universidad Técnica Federico Santa María,
+      Valparaíso, Chile
+  - family-names: Pascual
+    given-names: Rodrigo
+    affiliation: >
+      Department of Mechanical Engineering, Universidad de Chile,
+      Santiago, Chile
 
 preferred-citation:
   type: article
@@ -20,6 +47,15 @@ preferred-citation:
     reduction: Evidence from an emerging economy power system
   journal: "Energy Conversion and Management"
   year: 2026
-  doi: 10.1016/j.enconman.2026.121611
+  doi: "10.1016/j.enconman.2026.121611"
   authors:
-    - name: "[Author(s) — fill in before publishing]"
+    - family-names: Carrasco
+      given-names: Felipe
+    - family-names: Kristjanpoller
+      given-names: Fredy
+    - family-names: Verdugo
+      given-names: Ignacio
+    - family-names: Viveros
+      given-names: Pablo
+    - family-names: Pascual
+      given-names: Rodrigo

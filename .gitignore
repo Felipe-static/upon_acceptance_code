@@ -11,9 +11,6 @@ __pycache__/
 venv/
 env/
 
-# Large data files (download separately — see README)
-data/generacion_total.parquet
-
 # OS
 .DS_Store
 Thumbs.db
